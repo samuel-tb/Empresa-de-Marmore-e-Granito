@@ -190,9 +190,7 @@ namespace Loja_de_marmore_e_granito
             else
             {
                 Ordem();
-                Console.Clear();
-                Ordem();
-
+                
             }
             Console.WriteLine("\nPressione qualquer tecla para voltar ao menu de opções.");
             Console.ReadKey();
